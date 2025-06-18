@@ -43,15 +43,9 @@ Based in India | Building cool things with code & AI
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshlawhale&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshlawhale&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshlawhale&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
-### Let's Connect Here
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawhalesandesh)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandeshlawhale@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](sandeshlawhale.vercel.app)
 
 ### Fun Facts
 
@@ -69,6 +63,9 @@ I'm always open to collaborating on exciting full-stack projects, AI-powered too
 - Want to explore AI or LangChain? I’m in.
 - Need a teammate for your portfolio or side project? Let’s talk!
 
-Reach out via [LinkedIn](https://linkedin.com/in/lawhalesandesh) or drop me an [email](mailto:sandeshlawhale@gmail.com)
+### Connect Here
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawhalesandesh)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandeshlawhale@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](sandeshlawhale.vercel.app)
 
