@@ -43,8 +43,8 @@ Based in India | Building cool things with code & AI
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshlawhale&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshlawhale&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshlawhale&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshlawhale&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ### Let's Connect Here
