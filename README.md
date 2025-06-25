@@ -35,10 +35,10 @@ Based in India | Building cool things with code & AI
 
 ### Projects
 
--  [**AI Interviewer**](https://your-link.com): LangChain-powered HR simulator for dynamic candidate evaluation.
--  [**Trueno Wheels**](https://your-link.com): E-commerce site for Hot Wheels collectors, built with MERN & Firebase.
--  [**Chat App 2.0**](https://your-link.com): Real-time chat with image support using React + Firebase.
--  [**Voting System**](https://your-link.com): JWT-authenticated MERN app with live result graphs via Chart.js.
+-  **AI Interviewer**: LangChain-powered HR simulator for dynamic candidate evaluation.
+-  **Trueno Wheels**: E-commerce site for Hot Wheels collectors, built with MERN & Firebase.
+-  **Chat App 2.0**: Real-time chat with image support using React + Firebase.
+-  **Voting System**: JWT-authenticated MERN app with live result graphs via Chart.js.
 
 ### Stats
 
